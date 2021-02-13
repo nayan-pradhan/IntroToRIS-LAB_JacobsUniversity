@@ -1,1 +1,1 @@
-# IntroToRIS-LAB_JacobsUniversity
+# Introduction To Robotics and Intelligent Systems LAB
